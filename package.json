@@ -1,11 +1,22 @@
 {
   "name": "react-project3-antd",
+  "author": "Sonson Ixon",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "antd": "^3.19.2",
+    "axios": "^0.19.0",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
-    "react-scripts": "3.0.1"
+    "react-router-dom": "^5.0.1",
+    "react-scripts": "3.0.1",
+    "react-table": "^6.10.0",
+    "redux": "^4.0.1",
+    "redux-axios-middleware": "^4.0.0",
+    "redux-persist": "^5.10.0",
+    "redux-saga": "^1.0.2",
+    "styled-components": "^4.3.0",
+    "sweetalert": "^2.1.2"
   },
   "scripts": {
     "start": "react-scripts start",
